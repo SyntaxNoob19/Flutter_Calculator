@@ -1,9 +1,20 @@
 # Modern Flutter Calculator
 
 A sleek, minimal, and premium dark-themed calculator application built with Flutter. It combines a beautiful dark slate design with rich features, interactive buttons, and real-time live mathematical evaluations.
-
-![Calculator Screenshot](assets/calculator-input.jpeg)
-![Calculator Screenshot](assets/calculator-output.jpeg)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/calculator-input.jpeg" width="250"/><br/>
+        <sub><b>Input Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="assets/calculator-output.jpeg" width="250"/><br/>
+        <sub><b>Output Screen</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
