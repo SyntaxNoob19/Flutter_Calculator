@@ -2,7 +2,8 @@
 
 A sleek, minimal, and premium dark-themed calculator application built with Flutter. It combines a beautiful dark slate design with rich features, interactive buttons, and real-time live mathematical evaluations.
 
-![Calculator Screenshot](assets/)
+![Calculator Screenshot](assets/calculator-input.jpeg)
+![Calculator Screenshot](assets/calculator-output.jpeg)
 
 ---
 
